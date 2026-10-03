@@ -1,0 +1,1 @@
+- Keep Vajra Fitness as a single-page, black-and-red marketing site with content sections linked by anchors; this keeps the initial gym experience direct and conversion-focused.
